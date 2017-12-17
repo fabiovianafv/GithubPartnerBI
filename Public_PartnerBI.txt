@@ -1,1 +1,10 @@
--- teste de integridade e alteraçções nos arquivos do GITHUB.
+-- teste de integridade e alterações dos arquivos do GITHUB.
+
+--==================================================================
+-- PROJETO PARTNER BI
+--==================================================================
+
+Tem como objetivo contribuir para as áreas de negócios da RD, centralizando
+regras e buscando o melhor resultado na analise das informações.
+
+Fabio Viana
